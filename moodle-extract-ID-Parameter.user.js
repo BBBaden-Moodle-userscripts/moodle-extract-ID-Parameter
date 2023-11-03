@@ -2,7 +2,12 @@
 // @name        moodle extract ID Parameter
 // @namespace   moodle extract ID Parameter
 // @match       https://moodle.bbbaden.ch/mod/quiz/view.php*
-// @version     1.0.0
+// @version     1.0.1
+//
+// @downloadURL https://github.com/BBBaden-Moodle-userscripts/moodle-extract-ID-Parameter/raw/main/moodle-extract-ID-Parameter.user.js
+// @updateURL   https://github.com/BBBaden-Moodle-userscripts/moodle-extract-ID-Parameter/raw/main/moodle-extract-ID-Parameter.user.js
+// @homepageURL https://github.com/BBBaden-Moodle-userscripts/moodle-extract-ID-Parameter
+// @supportURL  https://github.com/BBBaden-Moodle-userscripts/moodle-extract-ID-Parameter/issues
 //
 // @description prints the ID parameter of the current URL to the console
 // @author      black-backdoor (https://github.com/black-backdoor)
