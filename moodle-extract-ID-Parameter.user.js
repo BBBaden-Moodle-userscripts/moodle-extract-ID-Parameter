@@ -10,7 +10,7 @@
 // @supportURL  https://github.com/BBBaden-Moodle-userscripts/moodle-extract-ID-Parameter/issues
 //
 // @description prints the ID parameter of the current URL to the console
-// @author      black-backdoor (https://github.com/black-backdoor)
+// @author      black-backdoor
 //
 // @run-at      document-end
 // @grant       none
